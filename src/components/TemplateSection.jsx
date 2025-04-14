@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function TemplateSection() {
   return (
-    <section className="mt-20 bg-white rounded-2xl shadow-sm p-8 relative opacity-10 hover:opacity-100 transition-opacity duration-300 overflow-hidden max-w-[920px] mx-auto">
+    <section className="mt-20 bg-white rounded-2xl shadow-sm p-8 relative opacity-30 hover:opacity-100 transition-opacity duration-300 overflow-hidden max-w-[920px] mx-auto">
       <div className="flex items-center gap-2 mb-8 p-2 bg-gray-50 rounded-lg w-fit">
         <motion.span
           initial={{ scale: 0 }}

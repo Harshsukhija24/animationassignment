@@ -4,7 +4,6 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center px-8 py-4 bg-white shadow-[0_1px_2px_rgba(0,0,0,0.05)]">
       <div className="flex items-center gap-2">
-        <img src="/logo.svg" alt="Relevance AI" className="h-8 w-8" />
         <span className="text-xl font-semibold">Relevance AI</span>
       </div>
       <nav className="flex gap-8 items-center">
